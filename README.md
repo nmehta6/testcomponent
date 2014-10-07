@@ -1,0 +1,4 @@
+testcomponent
+=============
+
+testing private bower
