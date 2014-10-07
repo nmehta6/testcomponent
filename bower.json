@@ -1,0 +1,21 @@
+{
+  "name": "testcomponent",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nmehta6/testcomponent",
+  "authors": [
+    "Nachiket Mehta <nmehta@mediafly.com>"
+  ],
+  "description": "testing private bower",
+  "main": "testcomponent.js",
+  "keywords": [
+    "testcomponent"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
